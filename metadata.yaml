@@ -1,0 +1,42 @@
+_repo: The-Winning-of-Canada--a-Chronicle-of-Wolfe_8728
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, William Charles Henry
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '986'
+    url: http://www.gutenberg.org/2009/agents/986
+  editors:
+  - agent_name: Wrong, George McKinnon
+    alias: Wrong, George M. (George McKinnon)
+    birthdate: 1860
+    deathdate: 1948
+    gutenberg_agent_id: '1002'
+    url: http://www.gutenberg.org/2009/agents/1002
+    wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+  - agent_name: Langton, H. H. (Hugh Hornby)
+    alias: Langton, Hugh Hornby
+    birthdate: 1862
+    deathdate: 1953
+    gutenberg_agent_id: '4517'
+    url: http://www.gutenberg.org/2009/agents/4517
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8728'
+language: en
+publication_note: 'Toronto :  [s.n.],  1915'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Chronicles of Canada series: Volume 11'
+subjects:
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763'
+- !lcsh 'Wolfe, James, 1727-1759'
+- !lcc 'E186'
+- !lcc 'F1001'
+- GITenberg
+title: 'The Winning of Canada: a Chronicle of Wolfe'
+url: http://www.gutenberg.org/ebooks/8728
